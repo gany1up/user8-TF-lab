@@ -3,7 +3,7 @@
 #     tags = {
 #         Name  = "u8vpc"
 #     }
-}
+#}
 resource "local_file" "test" {
     filename = "./NEWu8file"
     content = "NEWhave this content"
